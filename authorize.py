@@ -61,5 +61,5 @@ pickle.dump(Dict, file)
 file.close()
 
 
-import main
-main.start()
+import save_info
+save_info.start()
